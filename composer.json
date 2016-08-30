@@ -1,0 +1,12 @@
+{
+    "require": {
+        "slim/slim": "^3.0",
+        "tuupola/slim-jwt-auth": "^2.2",
+        "monolog/monolog": "^1.19",
+        "php-console/php-console": "^3.1",
+        "vlucas/phpdotenv": "^2.2",
+        "slim/php-view": "^2.1",
+        "slim/pdo": "^1.9",
+        "tuupola/cors-middleware": "^0.5.1"
+    }
+}
